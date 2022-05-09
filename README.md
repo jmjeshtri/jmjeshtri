@@ -2,7 +2,7 @@
  - Welcome to my GitHub Profile
  - 😄 I'm a Computer Science student with a passion for Web Development 
  - ⚡ I am trying to keep my GitHub updated, so here you'll find some of them.
-## Enjoy ✨
+#### Enjoy ✨
 
 <!--
 **jmjeshtri/jmjeshtri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

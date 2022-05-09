@@ -1,7 +1,7 @@
-## Hi there 👋
-## Welcome to my GitHub Profile
-## 😄 I'm a Computer Science student with a passion for Web Development 
-## ⚡ I am trying to keep my GitHub updated, so here you'll find some of them.
+### Hi there 👋
+  Welcome to my GitHub Profile
+  😄 I'm a Computer Science student with a passion for Web Development 
+  ⚡ I am trying to keep my GitHub updated, so here you'll find some of them.
 ## Enjoy ✨
 
 <!--
